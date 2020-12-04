@@ -1,0 +1,6 @@
+hello this is Peter
+he wants to collect gems but dont know how
+write code to help him naigate mazes and collect the gems
+
+use the forward() command to move peter forward
+use the collect() command to collect the gem peter is standing on
